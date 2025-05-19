@@ -1,8 +1,8 @@
 # CONNECT FOUR AI
-- WISE MOVE
+## WISE MOVE
 Since our childhood, we've been losing to our elder siblings in the game of Connect 4. Now that we have a chance to build an AI model which takes the most optimal moves, we think we've got a chance to finally pay back!
 
-- RANDOM WALK
+## RANDOM WALK
 In Maths, a random walk, sometimes known as a drunkard's walk, is a random process that describes a path that consists of a succession of random steps on some mathematical space. We’ll try to verify this theory with our random moves
 
 # HOW TO IMPLEMENT
