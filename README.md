@@ -1,7 +1,7 @@
 # CONNECT FOUR AI
 # How TO IMPLEMENT
   If you want to play 2-player against your friend, run the command:
-<pre> ```bash python3 main.py ``` </pre>
+<pre> python3 main.py </pre>
   If you are alone and need an AI friend to play against (who you probably can’t beat), run the command:
   
   'python3 versus_ai.py'
