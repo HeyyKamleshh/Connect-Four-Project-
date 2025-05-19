@@ -4,12 +4,12 @@
 <pre> python3 main.py </pre>
   If you are alone and need an AI friend to play against (who you probably can’t beat), run the command:
   
-  'python3 versus_ai.py'
+  <pre>python3 versus_ai.py</pre>
 
 # REQUIREMENT.TXT
 Install them using:
 
-'pip install -r requirements.txt'
+<pre>pip install -r requirements.txt</pre>
 
 ## 🧠 Game Modes
  ### 1. main.py – 2 Player Game
