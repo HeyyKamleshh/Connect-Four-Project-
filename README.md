@@ -1,5 +1,5 @@
 # CONNECT FOUR AI
-# How TO IMPLEMENT
+# HOW TO IMPLEMENT
   If you want to play 2-player against your friend, run the command:
 <pre> python3 main.py </pre>
   If you are alone and need an AI friend to play against (who you probably can’t beat), run the command:
@@ -29,7 +29,7 @@ Time taken to finish a game
 
 How many games ended in X seconds
 
-## 📊 plotter.py – Plot the Madness
+## 📊 plotter.py – Plot the Result
 We take the results from crazy.py and plot them using Matplotlib.
 
 You’ll see a scatter plot showing:
