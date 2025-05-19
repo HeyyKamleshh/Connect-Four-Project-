@@ -22,6 +22,6 @@ occurence = list(time_game_dict.values())
 plt.scatter(time_list,occurence,color='blue',label='time')
 plt.xlabel('TIME TAKEN TO END GAME')
 plt.ylabel("OCCURENCE OF SUCH EVENT")
-plt.show()
+plt.savefig("execution_time_plot.png")
 print(time_list)
   
