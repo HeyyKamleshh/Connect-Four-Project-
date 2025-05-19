@@ -7,7 +7,7 @@
 Install them using:
 pip install -r requirements.txt
 
-##🧠 Game Modes
+## 🧠 Game Modes
 1. main.py – 2 Player Game
 Two human players take turns — just run it and play with your friend, sibling, or anyone who can reach your keyboard.
 
